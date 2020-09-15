@@ -25,3 +25,6 @@ def binary_search(arr, target):
             # Your code here
 
     return -1  # not found
+
+# As long the list is sorted binary_search is a go to.
+# Sort them than search them
